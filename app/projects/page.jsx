@@ -6,7 +6,7 @@ import ProjectCard from '@/components/ProjectCard';
 
 const projectData = [
     {
-        image: '/work/3.png',
+        image: '/work/work3.png',
         category: 'react js',
         name: 'GroceryList',
         description: 'A React-based application',
@@ -14,7 +14,7 @@ const projectData = [
         github: 'https://github.com/Sriya-Mukkawar/react_grocerylist_gh',
     },
     {
-        image: '/work/4.png',
+        image: '/work/work4.png',
         category: 'react js',
         name: 'PopcornPal',
         description: 'React Movie Search Website',
@@ -22,7 +22,7 @@ const projectData = [
         github: 'https://github.com/Sriya-Mukkawar/PopcornPal',
     },
     {
-        image: '/work/2.png',
+        image: '/work/work2.png',
         category: 'Machine Learning',
         name: 'Airline Classification',
         description: 'ML classification website',

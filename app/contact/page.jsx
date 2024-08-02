@@ -1,6 +1,9 @@
+
 import { MailIcon, HomeIcon, PhoneCall } from 'lucide-react';
 import Form from '@/components/Form';
+
 const Contact = () => {
+    
     return (
         <section>
             <div className='container mx-auto'>
@@ -33,6 +36,7 @@ const Contact = () => {
                     <Form />
                 </div>
             </div>
+            
         </section>
     )
 }
